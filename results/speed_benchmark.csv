@@ -1,0 +1,5 @@
+model,format,FPS,latency_ms
+yolo11n.pt,PyTorch,85.7,11.7
+yolo11n.pt,ONNX,105.9,9.4
+yolo11s.pt,PyTorch,83.4,12.0
+yolo11s.pt,ONNX,75.2,13.3
